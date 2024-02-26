@@ -1,0 +1,4 @@
+de/tuan/order/order/controller/OrderController.class
+de/tuan/order/order/config/AzureClientFactory.class
+de/tuan/order/order/OrderApplication.class
+de/tuan/order/order/model/Order.class
